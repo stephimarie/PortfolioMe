@@ -6,7 +6,7 @@ Portfolio Me was developed for the purpose of showcase my skills as a software d
 
 
 ## Screenshot of Website:
-<img width="1128" alt="screen_shot_2020-11-13_at_9 22 18_pm" src="https://user-images.githubusercontent.com/69176601/99157653-f85c7900-266e-11eb-88f1-b274afbb42d8.png">
+<img width="1424" alt="Screen Shot 2020-11-21 at 11 25 08 PM" src="https://user-images.githubusercontent.com/71304781/99897715-e7080380-2c50-11eb-9333-18ebdc31fa0e.png">
 
 
 ## BuiltWith:
