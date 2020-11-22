@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(221, 129, 113);
+    font-family: 'Open Sans Condensed', sans-serif;
+    
+}
+
+.card-title {
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    color: black
+
+}
+
+#navbar-brand {
+    color: rgb(196, 54, 54);
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Great Vibes', cursive;
+}
+.links{
+  margin-left: 81%;
+}
+aside {
+    background-color: rgb(221, 129, 113);
+    width: 1300px;
+    height: 900px;
+    padding: 40px;
+  }
+
+footer {
+    background-color: gray;
+    border: 1px solid gray;
+  }
+
+.jumbotron {
+    background-color: rgb(221, 129, 113) ;
+  }
+
+.card {
+  margin-right: 5%;
+  margin-left: 5%;
+}

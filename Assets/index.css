@@ -1,0 +1,42 @@
+body {
+    /* background-color: rgb(93, 145, 145); */
+    font-family: 'Handlee', cursive;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.card-title {
+    font-size: 45px;
+    font-weight: bold;
+    border-bottom: solid lightgray 1px;
+    border-right-width: 90px;
+    font-family: 'Shadows Into Light', cursive;
+    color: black
+
+}
+
+#navbar-brand {
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Great Vibes', cursive;
+    color: rgb(196, 54, 54)
+}
+.links{
+  margin-left: 81%;
+}
+
+
+main {
+    background-color: rgb(100, 172, 172);
+    width: 1450px;
+    height: 670px;
+    padding: 40px;
+    border-bottom: 15px solid rgb(131, 180, 180);
+    
+  }
+
+footer {
+    background-color: gray;
+    border: 1px solid gray;
+  }
+  
