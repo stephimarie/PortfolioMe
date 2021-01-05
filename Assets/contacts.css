@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(172, 193, 204);
+    background-color: rgb(221, 129, 113);
     font-family: 'Handlee', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
    
@@ -23,7 +23,8 @@ main {
   width: 1470px;
     height: 980px;
     padding: 30px;
-    border: 1px solid rgb(221, 129, 113)
+    border: 1px solid rgb(221, 129, 113);
+    margin-left: 290px;
   }
 
 footer {
