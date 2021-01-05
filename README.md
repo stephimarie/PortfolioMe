@@ -25,4 +25,4 @@ Portfolio Me was developed for the purpose of showcase my skills as a software d
 
 
 ## Links
-[Github Page](https://stephimarie.github.io/PortfolioMe/.)
+[PortfolioMe](https://stephimarie.github.io/PortfolioMe/.)
