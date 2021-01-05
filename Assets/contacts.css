@@ -6,16 +6,6 @@ body {
     
 }
 
-.card-title {
-    font-size: 45px;
-    font-weight: bold;
-    border-bottom: solid lightgray 1px;
-    border-right-width: 90px;
-    font-family: 'Shadows Into Light', cursive;
-    color: rgb(39, 132, 155)
-
-}
-
 #navbar-brand {
     color: rgb(196, 54, 54);
     font-weight: bold;
@@ -40,3 +30,4 @@ footer {
     background-color: gray;
     border: 1px solid gray;
   }
+
