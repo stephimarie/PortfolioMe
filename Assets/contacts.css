@@ -20,7 +20,7 @@ body {
 
 main {
   background-color: rgb(221, 129, 113);
-  width: 1470px;
+  /* width: 1470px; */
     height: 980px;
     padding: 30px;
     border: 1px solid rgb(221, 129, 113);

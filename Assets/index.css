@@ -1,5 +1,5 @@
 body {
-    /* background-color: rgb(93, 145, 145); */
+    background-image: url('../Images/00100sPORTRAIT_00100_BURST20200915114202110_COVER.jpeg');
     font-family: 'Handlee', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
 
@@ -27,7 +27,6 @@ body {
 
 
 main {
-    background-color: rgb(100, 172, 172);
     width: 1470px;
     height: 670px;
     padding: 40px;
@@ -40,3 +39,20 @@ footer {
     border: 1px solid gray;
   }
   
+
+/* 
+  Responsive Design for iPhone X */
+  /* @media only screen and (max-width:400px) { */
+
+    /* #card-body {
+      
+    }
+
+  } */
+
+    /* Responsive Design for iPad II */
+    /* @media only screen and (min-width: 401px) {
+      #navbar-brand {
+        background-color: rebeccapurple;
+      }
+    /* /* } 
