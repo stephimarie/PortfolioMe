@@ -1,7 +1,6 @@
 body {
     background-color: rgb(221, 129, 113);
-    font-family: 'Open Sans Condensed', sans-serif;
-    
+    font-family: 'Open Sans Condensed', sans-serif;    
 }
 
 .card-title {
@@ -22,11 +21,10 @@ body {
 .links{
   margin-left: 81%;
 }
-aside {
-    background-color: rgb(221, 129, 113);
-    width: 1300px;
-    height: 850px;
-    padding: 40px;
+main {
+    /* width: 400px; */
+    padding: 30px;
+    margin-right: auto;
   }
 
 footer {
@@ -40,6 +38,5 @@ footer {
   }
 
 .card {
-  margin-right: 1%;
-  margin-left: 8%;
+  margin-right: auto;
 }
