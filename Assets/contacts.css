@@ -21,14 +21,19 @@ body {
 main {
   background-color: rgb(221, 129, 113);
   /* width: 1470px; */
-    height: 980px;
+    /* height: 980px;
     padding: 30px;
     border: 1px solid rgb(221, 129, 113);
-    margin-left: 290px;
+    margin-left: 290px; */
   }
 
 footer {
     background-color: gray;
     border: 1px solid gray;
+  }
+
+  .jumbotron {
+    background-color: rgb(221, 129, 113) ;
+    height: 10px;
   }
 
