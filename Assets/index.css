@@ -1,5 +1,5 @@
 body {
-    /* background-image: url('../Images/00100sPORTRAIT_00100_BURST20200915114202110_COVER.jpeg'); */
+    background-image: url('../Images/00100sPORTRAIT_00100_BURST20200915114202110_COVER.jpeg');
     font-family: 'Handlee', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
 
@@ -30,7 +30,7 @@ main {
     width: 1470px;
     height: 670px;
     padding: 40px;
-    border-bottom: 15px solid rgb(131, 180, 180);
+    /* border-bottom: 15px solid rgb(131, 180, 180); */
     
   }
 
@@ -39,12 +39,6 @@ footer {
     border: 1px solid gray;
   }
   
-  .jumbotron {
-    background-color: rgb(221, 129, 113) ;
-    height: 10px;
-    font-family: 'Shadows Into Light', cursive;
-
-  }
 
 /* 
   Responsive Design for iPhone X */
