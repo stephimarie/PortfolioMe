@@ -1,5 +1,5 @@
 body {
-    background-image: url('../Images/00100sPORTRAIT_00100_BURST20200915114202110_COVER.jpeg');
+    /* background-image: url('../Images/00100sPORTRAIT_00100_BURST20200915114202110_COVER.jpeg'); */
     font-family: 'Handlee', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
 
@@ -39,6 +39,10 @@ footer {
     border: 1px solid gray;
   }
   
+  .jumbotron {
+    background-color: rgb(221, 129, 113) ;
+    height: 10px;
+  }
 
 /* 
   Responsive Design for iPhone X */
