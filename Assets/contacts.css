@@ -20,11 +20,11 @@ body {
 
 main {
   background-color: rgb(221, 129, 113);
-  /* width: 1470px; */
-    /* height: 980px;
-    padding: 30px;
-    border: 1px solid rgb(221, 129, 113);
-    margin-left: 290px; */
+  /* width: 1470px;  */
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+  padding: 1px;
+    margin-left: 40px;
   }
 
 footer {

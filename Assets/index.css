@@ -28,10 +28,11 @@ body {
 
 
 main {
-    /* width: 1470px;
-    height: 670px;
-    padding: 35px; */
+    /* width: 1470px; */
+    height: 663px;
+    /* padding: 35px; */
     font-family: 'Shadows Into Light', cursive;
+    font-size: 60px;
 
     /* border-bottom: 15px solid rgb(131, 180, 180); */
     
@@ -46,6 +47,7 @@ footer {
     background-color: rgb(221, 129, 113) ;
     height: 10px;
   }
+
 
 /* 
   Responsive Design for iPhone X */
